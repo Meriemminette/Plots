@@ -1,0 +1,11 @@
+Légendes des figures:
+Figure 1. Germination precocity index of five barley genotypes under increasing PEG-6000 water stress (T, Dh10, Dh15, Dh20). Bars are means ± SE. Different letters denote significant differences (Kruskal-Wallis + Dunn, Holm; p < 0.05).
+Figure 2. Final germination rate of five barley genotypes under increasing water stress. Means ± SE; different letters: significant differences (Kruskal-Wallis + Dunn, p < 0.05).
+Figure 3. Seedling fresh weight under increasing water stress. Means ± SE; different letters: significant differences (two-way ANOVA + Tukey HSD, p < 0.05). Genotype × stress interaction significant (p = 0.040).
+Figure 4. Seedling dry weight under increasing water stress. Means ± SE; different letters: significant differences (Kruskal-Wallis + Dunn, p < 0.05).
+Figure 5. Seedling length under increasing water stress. Means ± SE; different letters: significant differences (Kruskal-Wallis + Dunn, p < 0.05). No significant genotype effect (p = 0.075).
+Figure 6. Weight-based moisture of two genotypes (Nailia, Saida183) under control and water-deficit (DH1, DH2). Means ± SE; different letters: p < 0.05 (Kruskal-Wallis + Dunn).
+Figure 7. Tissue water content of two genotypes under water deficit. Means ± SE; different letters: p < 0.05 (two-way ANOVA + Tukey HSD).
+Figure 8. Relative water content (RWC) of two genotypes under water deficit. Means ± SE; different letters: p < 0.05 (two-way ANOVA + Tukey HSD). Nailia maintained significantly higher RWC than Saida183 across all treatments.
+Figure 9. Tissue water deficit of two genotypes under water deficit. Means ± SE; different letters: p < 0.05 (Kruskal-Wallis + Dunn). Two outlier values (WD = 100%) were removed as data-entry errors.
+Figure 10. Grain number of two genotypes under control and water deficit. Means ± SE; different letters: p < 0.05. Nailia produced no grain under any treatment, including controls; this reflects absence of fruiting under the experimental conditions rather than a drought response, and was therefore not interpreted as a tolerance trait.
